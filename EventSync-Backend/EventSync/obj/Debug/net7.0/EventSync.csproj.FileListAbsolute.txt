@@ -1,0 +1,7 @@
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.csproj.AssemblyReference.cache
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.AssemblyInfoInputs.cache
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.AssemblyInfo.cs
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joseph\OneDrive\Desktop\Projects\Event Management App\EventSync-Backend\EventSync\obj\Debug\net7.0\EventSync.MvcApplicationPartsAssemblyInfo.cache

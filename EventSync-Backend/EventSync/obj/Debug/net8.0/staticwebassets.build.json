@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5P2gE22IVp4K2Rt+n0jZRsRyRDlQ4kx7BtYs7ExNgUM=",
+  "Source": "EventSync",
+  "BasePath": "_content/EventSync",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
